@@ -1,0 +1,5 @@
+export {default as LoginScreen} from "./login"
+// export {default as RegisterScreen} from "./register"
+export {default as CreateJobScreen} from "./createjob"
+export {default as ApplyJobScreen} from "./applyjob"
+export {default as DashboardScreen} from "./dashboard"

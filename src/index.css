@@ -1,0 +1,18 @@
+@import "tailwindcss";
+* {
+  font-family: "DM Sans", sans-serif;
+}
+
+@theme {
+  --color-txt-primary: #0D0140;
+  --color-txt-secondary: #524B6B;
+  --color-btn-primary: #130160;
+  --color-btn-secondary: #D6CDFE;
+}
+.input-shadow{
+    box-shadow: 0px 4px 62px rgba(153, 171, 198, 0.18);
+
+}
+.card-shadow{
+   box-shadow: 0px 4px 62px rgba(153, 171, 198, 0.18);
+}
